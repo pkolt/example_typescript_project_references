@@ -1,5 +1,5 @@
 import express from 'express';
-import { HELLO_WORLD } from '../../shared/dist';
+import { HELLO_WORLD } from './shared';
 
 const SERVER_HOST = 'localhost';
 const SERVER_PORT = 3000;
